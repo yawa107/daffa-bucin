@@ -1,0 +1,7 @@
+{
+  "name": "CheemsBot-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/yawa107/daffa-bucin",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
+}
